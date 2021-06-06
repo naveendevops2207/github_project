@@ -1,0 +1,1 @@
+First Line inside file1.txt
